@@ -9,7 +9,6 @@ title: Posts
   <tbody>
   {% for post in site.posts %}
     <tr>
-      <td></td>
       <td class="light">{{ post.date | date: "%b %d, %Y" }} </td>
       <td class="title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
     </tr>

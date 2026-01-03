@@ -1,9 +1,7 @@
 ---
 layout: page
-title: yadav.cloud
+title: People
 ---
-
-## People
 
 * [rajpal](https://rajpal.yadav.cloud)
 * [rohit](https://rohit.yadav.cloud)
