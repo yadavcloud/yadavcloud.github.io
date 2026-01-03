@@ -1,6 +1,5 @@
 ---
 layout: page
-title: People
 ---
 
 * [rajpal](https://rajpal.yadav.cloud)
