@@ -9,10 +9,13 @@ layout: page
   <div>
     <ul>
       <li><a href="/recipes">ajnesh</a></li>
-      <li><a href="https://rajpal.yadav.cloud">rajpal</a></li>
-      <li><a href="https://mukesh.yadav.cloud">mukesh</a></li>
-      <li><a href="https://rohit.yadav.cloud">rohit</a></li>
-      <li><a href="https://rohan.yadav.cloud">rohan</a></li>
+      <li><a href="https://rajpal.yadav.cloud" target="_blank">rajpal</a></li>
+      <li><a href="https://mukesh.yadav.cloud" target="_blank">mukesh</a></li>
+      <li><a href="https://rohan.yadav.cloud" target="_blank">rohan</a></li>
+      <li><a href="https://rohit.yadav.cloud" target="_blank">rohit</a></li>
+      <li><a href="/ashley">ashley</a></li>
+      <li><a href="/gracie">gracie</a></li>
+      <li><a href="/happy">happy</a></li>
     </ul>
   </div>
 </div>
